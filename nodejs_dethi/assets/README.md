@@ -1,0 +1,1 @@
+Thư mục chứa js, css, images của template

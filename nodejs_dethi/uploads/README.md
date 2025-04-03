@@ -1,0 +1,1 @@
+Thư mục chứa hình ảnh/ file sau khi upload 

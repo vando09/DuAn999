@@ -1,0 +1,43 @@
+<li class="i-mn-all-prod dropdown open">
+    <a href="" iclass="dropdown-toggle">
+        Dịch vụ <span class="caret"></span>
+    </a>
+    <ul class="dropdown-menu">
+       <li role="menuitem" class="ng-scope" style="">
+            <a class="text-center" href="">
+                <img class="img-thumb" height="36" width="36" src="/public/img/svg/menu-dich-vu/acc-panel.svg">
+                <h5 class="mt-5px mb-0px i-title ng-binding">Tài khoản</h5>
+            </a>
+        </li>
+        <li role="menuitem" class="ng-scope">
+            <a class="text-center" href="">
+                <img class="img-thumb" height="36" width="36" src="/public/img/svg/menu-dich-vu/hot-sale.svg">
+                <h5 class="mt-5px mb-0px i-title ng-binding">Khuyến mãi</h5>
+            </a>
+        </li>
+        <li role="menuitem" class="ng-scope">
+            <a class="text-center" href="">
+                <img class="img-thumb" height="36" width="36" src="/public/img/svg/menu-dich-vu/ssl.svg">
+                <h5 class="mt-5px mb-0px i-title ng-binding">SSL</h5>
+            </a>
+        </li>
+        <li role="menuitem" class="ng-scope">
+            <a class="text-center" href="">
+                <img class="img-thumb" height="36" width="36" src="/public/img/svg/menu-dich-vu/whois-multiple.svg">
+                <h5 class="mt-5px mb-0px i-title ng-binding">Whois nhiều tên miền</h5>
+            </a>
+        </li>
+        <li role="menuitem" class="ng-scope">
+            <a class="text-center" href="">
+                <img class="img-thumb" height="36" width="36" src="/public/img/svg/menu-dich-vu/lookup-info.svg">
+                <h5 class="mt-5px mb-0px i-title ng-binding">Lookup thông tin Hosting</h5>
+            </a>
+        </li>
+        <!-- Khi nào nhiều dịch vụ quá thì sử dụng-->
+        <li class="w-100-per text-center all-prod">
+            <a href="#" >
+                Danh bạ sản phẩm dịch vụ
+            </a>
+        </li>
+    </ul>
+</li>
